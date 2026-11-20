@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.500 --> 00:00:07.198
+Untuk merancang aplikasi, desainer memakai perangkat lunak kategori UI-UX Design.
+
+00:00:07.198 --> 00:00:11.829
+Nama aplikasinya beragam, tetapi bagian-bagiannya mirip.
+
+00:00:11.829 --> 00:00:14.393
+Mari kita kenali satu per satu.
+
+00:00:15.693 --> 00:00:16.713
+Toolbar alat.
+
+00:00:16.713 --> 00:00:21.267
+Toolbar berisi alat untuk membuat bentuk, teks, dan garis.
+
+00:00:22.567 --> 00:00:23.477
+Panel layer.
+
+00:00:23.477 --> 00:00:26.890
+Panel layer menampilkan susunan semua elemen.
+
+00:00:26.890 --> 00:00:30.075
+Di sana elemen bisa dinamai dan diurutkan.
+
+00:00:31.375 --> 00:00:31.939
+Kanvas.
+
+00:00:31.939 --> 00:00:36.371
+Kanvas adalah area kerja tempat semua frame diletakkan.
+
+00:00:37.671 --> 00:00:39.019
+Frame / artboard.
+
+00:00:39.019 --> 00:00:44.567
+Frame (artboard) mewakili satu layar perangkat dengan ukuran tertentu.
+
+00:00:45.867 --> 00:00:47.041
+Panel properti.
+
+00:00:47.041 --> 00:00:53.538
+Panel properti mengatur warna, ukuran, posisi, dan jenis huruf elemen yang dipilih.
+
+00:00:54.838 --> 00:00:55.968
+Mode prototipe.
+
+00:00:55.968 --> 00:00:58.983
+Mode prototipe menghubungkan antarlayar,
+
+00:00:58.983 --> 00:01:03.505
+sehingga alur aplikasi bisa diuji sebelum dibuat programnya.
+
+00:01:04.805 --> 00:01:05.442
+Ekspor.
+
+00:01:05.442 --> 00:01:12.544
+Fitur ekspor mengubah desain menjadi berkas gambar seperti PNG, JPG, atau SVG.
+
+00:01:13.844 --> 00:01:19.489
+Langkah kerja dasarnya: buat frame ukuran ponsel, tambahkan teks dan bentuk,
+
+00:01:19.489 --> 00:01:25.357
+atur warna di panel properti, beri nama layer yang jelas, lalu ekspor hasilnya.
+
+00:01:25.357 --> 00:01:29.442
+Coba langkah-langkah ini di misi Praktik Studio Desain.
